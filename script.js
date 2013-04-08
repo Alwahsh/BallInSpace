@@ -1,4 +1,3 @@
-//To add player 2 don't forget to replace all instances of "player" by "player1"
 var canvasWidth = 800;
 var canvasHeight = 600;
 var fps = 60;
